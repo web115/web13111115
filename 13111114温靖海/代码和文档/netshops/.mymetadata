@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="netshops"
+  id="myeclipse.1404055522406"
+  context-root="/netshops"
+  j2ee-spec="6.0"
+  archive="netshops.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
